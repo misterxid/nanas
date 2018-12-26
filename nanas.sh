@@ -2,12 +2,7 @@ figlet hello | lolcat
 
 figlet Installerv1 | lolcat
 
-echo "_          _____  ___ _____
- _ __ (_)_ __   ___  __ _ _ __  _ __ | | ___    |___ / / _ \___ /
-| '_ \| | '_ \ / _ \/ _` | '_ \| '_ \| |/ _ \     |_ \| | | ||_ \
-| |_) | | | | |  __/ (_| | |_) | |_) | |  __/    ___) | |_| |__) |
-| .__/|_|_| |_|\___|\__,_| .__/| .__/|_|\___|___|____/ \___/____/
-|_|                      |_|   |_|         |_____| $green " |lolcat
+figlet pinneapple | lolcat
 
 echo "Tools : Nas installerV1 $red " |lolcat
 
